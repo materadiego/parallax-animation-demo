@@ -1,7 +1,6 @@
 import { Parallax } from "react-parallax";
 import "./App.css";
 import one from "./images/one.jpg";
-import two from "./images/two.jpg";
 import three from "./images/three.jpg";
 
 function App() {
