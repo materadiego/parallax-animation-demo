@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/parallax-animation-demo/static/css/main.1b3c622d.css",
+    "main.js": "/parallax-animation-demo/static/js/main.32096b63.js",
+    "static/js/787.3b0cdf78.chunk.js": "/parallax-animation-demo/static/js/787.3b0cdf78.chunk.js",
+    "static/media/one.jpg": "/parallax-animation-demo/static/media/one.eaa5880d766c255ca836.jpg",
+    "static/media/three.jpg": "/parallax-animation-demo/static/media/three.5c66b718b8446e506641.jpg",
+    "index.html": "/parallax-animation-demo/index.html",
+    "main.1b3c622d.css.map": "/parallax-animation-demo/static/css/main.1b3c622d.css.map",
+    "main.32096b63.js.map": "/parallax-animation-demo/static/js/main.32096b63.js.map",
+    "787.3b0cdf78.chunk.js.map": "/parallax-animation-demo/static/js/787.3b0cdf78.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b3c622d.css",
+    "static/js/main.32096b63.js"
+  ]
+}
